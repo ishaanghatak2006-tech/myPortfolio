@@ -22,7 +22,7 @@ export default function Sidebar({ activeSection, onNavigate, soundEnabled, onSou
 
   const handleDownloadResume = () => {
     play?.('click');
-    window.open('/resume.pdf', '_blank');
+    window.open('/resume_final.pdf', '_blank');
   };
 
   return (

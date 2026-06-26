@@ -91,7 +91,7 @@ export default function Hero({ play }) {
             <SiLeetcode size={14} /> LeetCode
           </a>
           <a
-            href="/resume.pdf"
+            href="/resume_final.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-5 py-2.5 border border-[#1f1f1f] text-[#e8e8e8] text-[0.75rem] font-mono-display tracking-wider hover:border-white hover:text-white transition-colors duration-150 flex items-center gap-2"

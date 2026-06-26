@@ -13,7 +13,7 @@ export const toolkit = [
   },
   {
     group: "Database",
-    skills: ["MongoDB", "Redis", "MySQL"]
+    skills: ["MongoDB", "MySQL"]
   },
   {
     group: "Computer Vision",

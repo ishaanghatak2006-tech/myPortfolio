@@ -54,7 +54,7 @@ export default function MobileDrawer({ isOpen, onClose, activeSection, play }) {
             </nav>
             <div className="px-4 py-4 border-t border-[#1f1f1f]">
               <a
-                href="/resume.pdf"
+                href="/resume_final.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 w-full px-3 py-2 border border-[#1f1f1f] text-[#e8e8e8] hover:bg-[#111111] transition-colors duration-150 font-mono-display text-[0.65rem] tracking-wider"
