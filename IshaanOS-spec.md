@@ -263,7 +263,7 @@ Two-column layout on desktop, stacked on mobile:
 - Small grid of stat cards in the window style:
   ```
   ┌─ CGPA ──┐  ┌─ Year ──┐
-  │  8.94   │  │   3rd   │
+  │  8.84   │  │   3rd   │
   └─────────┘  └─────────┘
   ┌─ Focus ─────────────────────┐
   │  SWE · Full Stack · AI/ML  │
