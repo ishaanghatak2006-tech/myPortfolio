@@ -74,7 +74,7 @@ export const projects = [
     tagline: "Classic arcade game",
     description:
       "A modern implementation of the classic Snake game featuring smooth controls, score tracking, collision detection, and progressively increasing difficulty.",
-    techStack: ["C++", "Raylib"],
+    techStack: ["C++"],
     github: "https://github.com/ishaanghatak2006-tech/Snake_game_in-C",
     type: "Game Development",
     year: "2024"
@@ -84,9 +84,10 @@ export const projects = [
     tagline: "2D arcade space shooter",
     description:
       "An action-packed 2D space shooter featuring enemy waves, boss encounters, projectile mechanics, collision detection, scoring, and progressively increasing gameplay difficulty.",
-    techStack: ["C++", "SFML"],
+    techStack: ["C++"],
     github: "https://github.com/ishaanghatak2006-tech/Star-Raider-Space-Shooter-game-in-cpp",
     type: "Game Development",
     year: "2024"
   }
 ];
+
